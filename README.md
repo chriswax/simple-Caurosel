@@ -16,5 +16,5 @@ The buttons are used to navigate through the Images in both directions.
 ## 🛠 Published Link
 
 The app is hosted on this web server : 
-http://www.zuri.citechs.com.ng/index.html
-https://chriswax.github.io/simple-Caurosel/
+- http://www.zuri.citechs.com.ng/index.html
+- https://chriswax.github.io/simple-Caurosel/
